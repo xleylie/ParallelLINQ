@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BonusTest/BonusTest.csproj" />
+  <Project Path="ParallelLINQ/ParallelLINQ.csproj" />
+</Solution>
